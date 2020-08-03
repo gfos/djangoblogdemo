@@ -25,7 +25,7 @@ SECRET_KEY = 'zi7ntj12$gy*zes9-)t4l8dl7gvjca_j_b2ii+cijh+k87&q-3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.myshana.xyz']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.wynnq.cn']
 
 
 # Application definition
